@@ -1,9 +1,9 @@
 {
-	"groups": [{
-		"date": "h4",
-		"events(p)": [{
-			"title": ".",
-			"link": "a/@href",
-		}]
-	}]
+  "groups": [{
+    "date": "h4",
+    "events(p)": [{
+      "title": ".",
+      "link": "a/@href",
+    }]
+  }]
 }

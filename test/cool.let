@@ -1,9 +1,9 @@
 {
-	"days": [ {
-			"day": ".day",
-			"links(a)": [ {
-					"title": ".",
-					"url": "@href"
-				} ]
-		} ]
+  "days": [ {
+      "day": ".day",
+      "links(a)": [ {
+          "title": ".",
+          "url": "@href"
+        } ]
+    } ]
 }

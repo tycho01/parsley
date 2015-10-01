@@ -83,5 +83,12 @@ void parsleyXsltError(void * ctx, const char * msg, ...);
 
 void parsley_set_user_agent(char const *agent);
 static contextPtr parsley_parsing_context;
-	
+
+//tycho's functions
+parsedParsleyPtr parsley_parse_html_string_simple(parsleyPtr parsley, char* string);
+parsedParsleyPtr parsley_parse_both(char* parselet, char* html);
+char* parsley_to_json(parsedParsleyPtr ptr);
+char* strings_to_json(char* parselet, char* html);
+char* compiled_to_json(parsleyPtr parsley, char* html);
+
 #endif

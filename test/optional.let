@@ -1,8 +1,8 @@
 {
-	"title?": "//title",
-	"foo?": ["//omg"],
-	"bar?": "//omg",
-	"ba?": {
-	  "linky": "wtf"
-	}
+  "title?": "//title",
+  "foo?": ["//omg"],
+  "bar?": "//omg",
+  "ba?": {
+    "linky": "wtf"
+  }
 }
